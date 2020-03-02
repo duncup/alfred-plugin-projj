@@ -60,7 +60,7 @@
 				<key>escaping</key>
 				<integer>0</integer>
 				<key>script</key>
-				<string>/usr/local/bin/code {query}</string>
+				<string>/usr/local/bin/webstorm {query}</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -152,7 +152,7 @@
 				<string>#!/usr/bin/env bash
 #
 # Open new iTerm window from the command line using v3 syntax for applescript as needed in iTerm2 Version 3+
-# This script blocks until the cmd is executed in the new iTerm2 window.  It then leaves the window open. 
+# This script blocks until the cmd is executed in the new iTerm2 window.  It then leaves the window open.
 # TODO Add option to close iTerm2 after cmd execs
 
 
@@ -170,7 +170,7 @@
 # References:
 #     iTerm AppleScript Examples:
 #     https://gitlab.com/gnachman/iterm2/wikis/Applescript
-# 
+#
 # Credit:
 #     Forked from https://gist.github.com/vyder/96891b93f515cb4ac559e9132e1c9086
 #     Inspired by tab.bash by @bobthecow

@@ -1,5 +1,7 @@
 # alfred-plugin-projj
 
+This project fork for https://github.com/atian25/alfred-plugin-projj
+
 Alfred plugin for https://github.com/popomore/projj
 
 [![NPM version][npm-image]][npm-url]

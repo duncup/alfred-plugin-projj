@@ -1,5 +1,5 @@
 {
-  "name": "alfred-plugin-projj",
+  "name": "@duncup/alfred-plugin-projj",
   "version": "1.0.2",
   "description": "alfred plugin for https://github.com/popomore/projj",
   "dependencies": {
