@@ -31,7 +31,7 @@ async function run() {
     if (keyword.some(str => !key.includes(str))) continue;
 
     const title = key.substring(key.indexOf('/') + 1);
-    const filePath = path.join(cfg.base, key);
+    const filePath = key;
 
     // icon
     let type;
